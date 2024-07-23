@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Tornado_Footprints")(type "KiCad")(uri "${KIPRJMOD}/Tornado_Footprints.pretty")(options "")(descr ""))
+)
