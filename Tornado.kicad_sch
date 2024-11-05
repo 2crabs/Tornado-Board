@@ -6,7 +6,7 @@
 
   (title_block
     (title "Tornado")
-    (rev "1")
+    (rev "2")
   )
 
   (lib_symbols
@@ -3016,7 +3016,7 @@
     (property "Reference" "R3" (at 191.77 71.12 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "4.7K" (at 191.77 73.66 0)
+    (property "Value" "3k" (at 191.77 73.66 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 196.342 72.39 90)
@@ -3454,7 +3454,7 @@
     (property "Reference" "R2" (at 132.08 184.15 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "4.7K" (at 132.08 186.69 0)
+    (property "Value" "3k" (at 132.08 186.69 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 127.762 185.42 90)
@@ -4172,7 +4172,7 @@
     (property "Reference" "R1" (at 121.92 184.15 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "4.7K" (at 121.92 186.69 0)
+    (property "Value" "3k" (at 121.92 186.69 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 117.602 185.42 90)
@@ -4447,12 +4447,12 @@
   )
 
   (symbol (lib_id "Tornado_Symbols:M34E04") (at 163.83 142.24 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid b1dec009-cd70-463a-acd4-d33d5e77f3f1)
-    (property "Reference" "U6" (at 166.0241 125.73 0)
+    (property "Reference" "U6" (at 168.5641 123.19 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "~" (at 173.99 146.05 0)
+    (property "Value" "M34E04" (at 170.18 125.73 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Tornado_Footprints:8-UFDFPN" (at 173.99 146.05 0)
