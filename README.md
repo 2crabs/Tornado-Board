@@ -2,11 +2,13 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="Images/logo-darkTheme.png">
       <source media="(prefers-color-scheme: light)" srcset="Images/logo-lightTheme.png">
-      <img alt="Tornado Logo" style="width:400px;height:auto">
+      <img alt="Tornado Logo" width="400px">
     </picture>
 </p>
 
 ---
+
+</br>
 
 ![Picture of PCB](Images/features.jpg)
 
