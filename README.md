@@ -8,18 +8,10 @@
 
 ---
 
-</br>
+![PCB features](Images/features-darkTheme.png#gh-dark-mode-only)
+![PCB features](Images/features-lightTheme.png#gh-light-mode-only)
 
-![Picture of PCB](Images/features.jpg)
-
-Tornado is a tiny open source IMU built for FRC! The design includes many features such as...
-* __CAN FD support__
-* __Efficient buck converter__
-* __RGB LEDs__
-* __EEPROM for persistent config__
-* __Reverse voltage protection__
-* __23mm x 23mm size__
+Tornado is a fully open-source IMU board built for FRC
 
 ## Resources
 * [Schematic](Images/Schematic.pdf)
-* [Bill of Materials](https://docs.google.com/spreadsheets/d/1Hn63KbTJbFwAjQXVcAFpKeThpDb3CeomXEKE-9VibNg)
